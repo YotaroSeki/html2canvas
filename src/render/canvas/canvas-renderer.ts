@@ -311,7 +311,7 @@ export class CanvasRenderer {
                 0,
                 0,
                 container.width,
-                container.width,
+                container.height,
                 container.bounds.left,
                 container.bounds.top,
                 container.bounds.width,
